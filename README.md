@@ -1,0 +1,1 @@
+This is the data support for the thesis "A two-stage hybrid NSGA-III with BWO for path planning and task allocation in agricultural land preparation" . The coordinates of the farmland are shown in Table 1 of the paper. If you need more detailed information about the farmland, please contact the author at 320203291@xjau.edu.cn.
